@@ -80,6 +80,17 @@ a {
   margin-top: 35px;
 }
 
+#atinUs{background: #333;border-radius: 20px;padding: 20px 0;}
+.joinUs_img{
+  display: block;
+  width: 100%;
+  margin-bottom: 30px;
+}
+.joinUs_img img{display: block;margin: 0 auto;}
+#atinUs ul{ }
+#atinUs li{list-style: disc;margin-left: 32px;font-size: 20px;}
+
+
 .main {
   width: 750px;
   margin: 0 auto;
